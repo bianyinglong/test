@@ -3,7 +3,3 @@ Git is good free software.
 Git is a good thing
 connection sucessed.
 Creating a new branch is quickly and simple.
-a change in branch dev.
-This change is by branch dev1.
-This change is by branch dev2.
-I am fix the bug sucessed.
